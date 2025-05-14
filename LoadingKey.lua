@@ -1,1 +1,3 @@
+-- Yes here no Asu and who every see this here now
+-- so i can change i some times ive got nothing to do and dont need to obfuscate again and again...
 return "ASUISGAYANDHESMOMHASACOOK-JJFLWO0FFIZOIVDBH"
