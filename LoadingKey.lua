@@ -1,3 +1,1 @@
--- Yes its here now,
--- so i can change it some times ive got nothing to do and dont need to obfuscate again and again...
 return "key"
