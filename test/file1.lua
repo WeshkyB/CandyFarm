@@ -18,5 +18,5 @@ local window = library.new({
 
 window.open()
 
-local file2_code = loadstring(game:HttpGet("https://path-to-your-file2.lua"))
+local file2_code = loadstring(game:HttpGet("https://raw.githubusercontent.com/WeshkyB/CandyFarm/refs/heads/main/test/file2.lua"))
 file2_code()
