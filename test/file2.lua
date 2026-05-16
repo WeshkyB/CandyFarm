@@ -1,4 +1,6 @@
-return function(window)
+return function(env)
+
+    local window = env.window
 
     local mainTab = window.new({ text = "Auto Farm" })
     local databaseTab = window.new({ text = "Database" })
